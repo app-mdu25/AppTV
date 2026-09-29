@@ -1,0 +1,41 @@
+{
+    "name": "FIFA ASEAN Cup 2026",
+    "author": "ผู้​บ่าวน้ำท่วม​",
+    "info": "ตารางถ่ายทอดสด",
+    "image": "https://hongkongfp.com/wp-content/uploads/2026/09/brave_bJwrT9j1Op-1050x589.jpg",
+    "stations": [
+        {
+            "name": "ฟิลิปปินส์ VS ปากีสถาน",
+            "info": "⚽ FIFA ASEAN Cup 2026 | 📅 29/09/2026 | ⏰ 10:00",
+            "image": "https://hongkongfp.com/wp-content/uploads/2026/09/brave_bJwrT9j1Op-1050x589.jpg",
+            "url": "https://sp-tr321.com/resteam3/index.m3u8",
+            "referer": "https://24goals.com/",
+            "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+        },
+        {
+            "name": "ฟิลิปปินส์ VS ปากีสถาน",
+            "info": "⚽ FIFA ASEAN Cup 2026 | 📅 29/09/2026 | ⏰ 10:00",
+            "image": "https://hongkongfp.com/wp-content/uploads/2026/09/brave_bJwrT9j1Op-1050x589.jpg",
+            "url": "https://sp-tr321.com/resteam4/index.m3u8",
+            "referer": "https://24goals.com/",
+            "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+        }, 
+        {
+            "name": "ฟิลิปปินส์ VS ปากีสถาน",
+            "info": "⚽ FIFA ASEAN Cup 2026 | 📅 29/09/2026 | ⏰ 10:00",
+            "image": "https://hongkongfp.com/wp-content/uploads/2026/09/brave_bJwrT9j1Op-1050x589.jpg",
+            "url": "https://atmflix.live/football/655197",
+            "referer": "https://atmflix.live/",
+            "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+        }, 
+        {
+            "name": "18:30 ไทย VS เวียดนาม",
+            "info": "⚽ FIFA ASEAN Cup 2026 | 📅 29/09/2026 | ⏰ 18:30",
+            "image": "https://hongkongfp.com/wp-content/uploads/2026/09/brave_bJwrT9j1Op-1050x589.jpg",
+            "url": "https://atmflix.live/football/655230",
+            "referer": "https://atmflix.live/",
+            "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36"
+        }
+        
+    ]
+}
